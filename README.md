@@ -27,12 +27,12 @@ Then run ml_serve_fast_api.py and go to http://localhost:8000/docs
 
 Press Try it out
 
-<img src="images\part1.png" width="400">
+<img src="images\part1.png" width="500">
 
 Then execute
 
-<img src="images\part2.png" width="240">
+<img src="images\part2.png" width="340">
 
 Check the result in the response body
 
-<img src="images\part3.png" width="400">
+<img src="images\part3.png" width="500">
