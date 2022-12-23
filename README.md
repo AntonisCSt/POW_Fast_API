@@ -26,6 +26,7 @@ You can install your enviroment (recomended Python 3.8 or 3.9) and install the r
 Then run ml_serve_fast_api.py and go to http://localhost:8000/docs
 
 Press Try it out
+
 <img src="images\part1.png" width="400">
 
 Then execute
@@ -33,4 +34,5 @@ Then execute
 <img src="images\part2.png" width="240">
 
 Check the result in the response body
+
 <img src="images\part3.png" width="400">
