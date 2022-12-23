@@ -1,8 +1,8 @@
 ## FAST API project-of-the-week
 
-This repo is part of the [#project-of-the-week](https://datatalks.club/slack) channel in slack. 
+This repo is part of the [#project-of-the-week](https://datatalks.club/slack) slack channel. 
 
-## Contect
+## Content
 
 ```requirements.txt ```
 * The libraries needed to run this repo
@@ -19,7 +19,7 @@ This repo is part of the [#project-of-the-week](https://datatalks.club/slack) ch
 ```ml_serve_fast_api.py```
 * Contains the service that in the /predict gives the bcancer prediciton.
 
-## Instructions (using UI swager)
+## Instructions (using UI swagger)
 
 You can install your enviroment (recomended Python 3.8 or 3.9) and install the requimrents.txt libraries
 
